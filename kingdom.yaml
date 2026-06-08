@@ -1,0 +1,8 @@
+name: fear
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force that warns the Kingdom what could be lost before it crosses a threshold it cannot take back.
+dependsOn: [love, courage, ush]
