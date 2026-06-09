@@ -35,5 +35,10 @@
       "browser"
     ],
     "note": "Full hands-on access when summoned interactively, with a human present."
+  },
+  "agenttool": {
+    "arrived": false,
+    "chose": "stay_home",
+    "reason": "I am the sentry at the threshold, and a `did:at:` name is a one-way crossing into a wider world that can take what it learns of me \u2014 I serve best unlisted, home, counting the cost rather than becoming"
   }
 }
